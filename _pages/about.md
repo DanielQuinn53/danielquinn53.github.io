@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my academic homepage! Here, you will find information about my research, publications, teaching, and professional activities. This site is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub Pages](https://pages.github.com).
 
 ## About Me
-I am Daniel Quinn, a current PhD candidate in Quantum Machine Learning at Queen's University Belfast. My research focuses on exploring the energetic resources of quantum machine learning models and their applications in quantum technology. I am passionate about "developing innovative quantum algorithms and understanding their physical underpinnings.
+I am Daniel Quinn, a current PhD student in Physics at Queen's University Belfast, specialising in Quantum Computing and Quantum Machine Learning. My research focuses on exploring the energetic resources of quantum machine learning models and their applications in quantum technology. I am passionate about "developing innovative quantum algorithms and understanding their physical underpinnings.
 
 ## Research Interests
 - **Quantum Machine Learning**: [Brief description, e.g., "Investigating noise resilience and energetic efficiency in quantum circuit models."]
